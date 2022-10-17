@@ -6,7 +6,9 @@ A simple printf function built by [A-Female-In-Tech](https://github.com/A-Female
 
 gcc -Wall -Werror -Wextra -pedantic *.c
 
-```bash                                                       gcc -Wall -Werror -Wextra -pedantic *.c                       ```
+```bash
+gcc -Wall -Werror -Wextra -pedantic *.c
+```
 
 ## Project Requirements
 
