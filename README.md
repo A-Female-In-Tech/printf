@@ -4,8 +4,6 @@ A simple printf function built by [A-Female-In-Tech](https://github.com/A-Female
 
 ## Compilation
 
-gcc -Wall -Werror -Wextra -pedantic *.c
-
 ```bash
 gcc -Wall -Werror -Wextra -pedantic *.c
 ```
