@@ -31,9 +31,7 @@ gcc -Wall -Werror -Wextra -pedantic *.c
 • va_arg (man 3 va_arg)                                       ```
 
 ## Authors
-
 Blessing Sodeinde - [A-Female-In-Tech](https://github.com/A-Female-In-Tech/)                                                Ifeanyichukwu Orah - [OCHIFY](https://github.com/OCHIFY/)
 
 ## License
-
 This project is licensed under ALX Software Engineering Course.
