@@ -27,11 +27,19 @@ gcc -Wall -Werror -Wextra -pedantic *.c
 
 ## Authorized functions and macros
 
-```python                                                     • write (man 2 write)                                         • malloc (man 3 malloc)                                       • free (man 3 free)                                           • va_start (man 3 va_start)                                   • va_end (man 3 va_end)                                       • va_copy (man 3 va_copy)
-• va_arg (man 3 va_arg)                                       ```
+```python
+• write (man 2 write)
+• malloc (man 3 malloc)
+• free (man 3 free)
+• va_start (man 3 va_start)
+• va_end (man 3 va_end)
+• va_copy (man 3 va_copy)
+• va_arg (man 3 va_arg)
+```
 
 ## Authors
-Blessing Sodeinde - [A-Female-In-Tech](https://github.com/A-Female-In-Tech/)                                                Ifeanyichukwu Orah - [OCHIFY](https://github.com/OCHIFY/)
+Blessing Sodeinde - [A-Female-In-Tech](https://github.com/A-Female-In-Tech/)
+Ifeanyichukwu Orah - [OCHIFY](https://github.com/OCHIFY/)
 
 ## License
 This project is licensed under ALX Software Engineering Course.
